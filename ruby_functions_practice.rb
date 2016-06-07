@@ -54,5 +54,9 @@ end
 
 def test_volume_of_cube(any_number)
   return any_number**3
-end   
+end 
+
+def test_volume_of_sphere(any_number)  
+  return any_number = 4 / 3.0 * pi * r ** 3
+end  
 
