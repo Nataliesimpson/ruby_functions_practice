@@ -37,8 +37,8 @@ def number_to_full_month_name(x)
     when 3
       return "March"
     when 9
-      return "September"    
-end
+      return "September"  
+    end      
 end
 
 def number_to_short_month_name(y)
@@ -52,6 +52,3 @@ def number_to_short_month_name(y)
   end
 end  
 
-def volume_of_cube(number)
-   return number**3
-end        
