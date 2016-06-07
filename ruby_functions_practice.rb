@@ -52,5 +52,7 @@ def number_to_short_month_name(y)
   end
 end  
 
-
+def test_volume_of_cube(any_number)
+  return any_number**3
+end   
 
